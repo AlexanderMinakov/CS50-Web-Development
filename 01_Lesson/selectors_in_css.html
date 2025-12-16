@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>CSS Selectors</title>
+		<style>
+			table {
+				border: 1px solid black;
+				border-collapse: collapse;
+				text-align: center;
+			}
+			td {
+				border: 1px solid black;
+				padding: 5px;
+			}
+			.left_column {
+				background-color: blue;
+				color: white;
+				width: 170px;
+			}
+		</style>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<td>Selector</td>
+					<td>Description</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="left_column">a, b</td>
+					<td> Multiple Element Selector</td>
+				</tr>
+				<tr>
+					<td class="left_column">a b</td>
+					<td>Descendant Selector</td>
+				</tr>
+				<tr>
+					<td class="left_column">a > b</td>
+					<td>Child Selector</td>
+				</tr>
+				<tr>
+					<td class="left_column">a + b</td>
+					<td>Adjacent Sibling Selector</td>
+				</tr>
+				<tr>
+					<td class="left_column">[a=b]</td>
+					<td>Attribute Selector</td>
+				</tr>
+				<tr>
+					<td class="left_column">a:b</td>
+					<td>Pseudoclass Selector</td>
+				</tr>
+				<tr>
+					<td class="left_column">a::b</td>
+					<td>Pseudoelement Selector</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

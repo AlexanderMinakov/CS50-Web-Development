@@ -14,3 +14,5 @@
 13 table2.html
 14 style_id.html // id="foo" #foo{} id is supposed to be unique, but in practice works even with several elements with the same id
 15 style_class.html
+16 selectors_in_css.html // I created :-)
+17 descendant.html
