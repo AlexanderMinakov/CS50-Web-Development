@@ -9,3 +9,8 @@
 08 style_inline.html
 09 style_header.html
 10 style_css.html
+11 size.html
+12 font.html
+13 table2.html
+14 style_id.html // id="foo" #foo{} id is supposed to be unique, but in practice works even with several elements with the same id
+15 style_class.html
