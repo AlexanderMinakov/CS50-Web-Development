@@ -6,5 +6,6 @@
 05 table.html
 06 form.html
 07 form1.html
-08 style.html
-09 style1.html
+08 style_inline.html
+09 style_header.html
+10 style_css.html
