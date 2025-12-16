@@ -1,0 +1,4 @@
+1. inline//
+2. id    // # my_id {}
+3. class // .my_class{}
+4. type  // <h1>, <ul>, <div>
