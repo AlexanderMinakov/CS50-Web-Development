@@ -16,3 +16,10 @@
 15 style_class.html
 16 selectors_in_css.html // I created :-)
 17 descendant.html
+18 attribute.html
+19 hover.html
+20 responsive-design.html
+21 responsive.html
+22 flex-box.html
+23 grid.html
+24 bootstrp.html // library of css styling
